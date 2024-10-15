@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shu\\Desktop\\113-1-C_Sharp\\113-10-15\\WinFormsApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6606ABC-0151-431C-8A31-B890812FB0A4}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\shu\\desktop\\113-1-c_sharp\\113-10-15\\winformsapp2\\winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6606ABC-0151-431C-8A31-B890812FB0A4}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6606ABC-0151-431C-8A31-B890812FB0A4}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\shu\\desktop\\113-1-c_sharp\\113-10-15\\winformsapp2\\winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6606ABC-0151-431C-8A31-B890812FB0A4}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113-1-C_Sharp\\113-10-15\\WinFormsApp2\\WinFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113-1-C_Sharp\\113-10-15\\WinFormsApp2\\WinFormsApp2\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp2\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:45:45.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113-1-C_Sharp\\113-10-15\\WinFormsApp2\\WinFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113-1-C_Sharp\\113-10-15\\WinFormsApp2\\WinFormsApp2\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "WinFormsApp2\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:37:10.386Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
